@@ -1,6 +1,6 @@
 ## Program2: Write a code to add two numbers
 ```
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
 int x,y,z;
