@@ -1,4 +1,4 @@
-## Program1:Write a code to display "Hello World".
+### Program1:Write a code to display "Hello World".
 
 
 #include<stdio.h>
@@ -13,4 +13,4 @@ return 0;
 
 }
 
-Output: Hello World
+**Output**: Hello World
