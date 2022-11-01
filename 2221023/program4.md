@@ -17,7 +17,6 @@ else
 printf("c is greater");
 }
 return 0;
-
 }
 ```
 **output**:c is greater
