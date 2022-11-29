@@ -1,4 +1,4 @@
-## Program 6:Write a code for 'FOR' loop.
+## Program 6: Write a code for 'FOR' loop.
 ```
 #include<stdio.h>
 int main()
